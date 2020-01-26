@@ -1,2 +1,2 @@
 # CI-with-Jenkins-in-GCP-Demo
-Test CI Version1
+Test CI Version2
