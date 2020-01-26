@@ -6,7 +6,7 @@
     <version>1.0-RAMA</version>
     <packaging>pom</packaging>
     <name>Project Build</name>
-<!--test-->
+
     <modules>
         <module>project</module>
     </modules>
